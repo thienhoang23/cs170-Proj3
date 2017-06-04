@@ -6,7 +6,7 @@ by Thien Hoang, Angela Yung, Shreyas Radhakrishnas
 
 ### NOTE
 
-.p1 extension is the version of a file used for part 1
+.p1 extension is the version of a file used for part 1\n
 .p2 extension is the version of a file used for part 2
 
 The files have such extension are:
