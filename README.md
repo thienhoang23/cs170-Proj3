@@ -29,4 +29,4 @@ Just update the file to the appropriate version by using the command
 
 For example:
 
-`cp [addrspace.cc.p1] [addrspace.cc]`
+`cp addrspace.cc.p1 addrspace.cc`
