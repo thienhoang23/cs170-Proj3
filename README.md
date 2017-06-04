@@ -4,7 +4,7 @@ by Thien Hoang, Angela Yung, Shreyas Radhakrishnas
 
 -----
 
-# NOTE
+### NOTE
 
 .p1 extension is the version of a file used for part 1
 .p2 extension is the version of a file used for part 2
@@ -16,12 +16,12 @@ The files have such extension are:
   * machine/translate.h
 
 -----
-# TO DO:
+### TO DO:
   * vm/P3A_report
   * vm/P3B_report
 
 -----
-# Submission:
+### Submission:
 Just update the file to the appropriate version by using the command
 
 `cp [version_file] [submission_file]`
